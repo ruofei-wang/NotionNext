@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到阿飞的小屋', url: 'https://blog.ruofei.wang' },
+    { title: '欢迎来到若有所思', url: 'https://blog.ruofei.wang' },
     { title: '访问访问我的 GITHUB 主页', url: 'https://github.com/ruofei-wang' }
   ],
 
@@ -22,10 +22,10 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'blog.ruofei.wang',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: '欢迎来到阿飞的小屋',
+  HEO_HERO_TITLE_5: '欢迎来到若有所思',
   HEO_HERO_TITLE_LINK: 'https://blog.ruofei.wang',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随便逛逛',
+  HEO_HERO_COVER_TITLE: '发现惊喜',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
